@@ -1,0 +1,2 @@
+ - Game_of_life -  is a non interactive version
+ - Game_of_real_life -  is an interactive version with ncurses, works only on MacOs
